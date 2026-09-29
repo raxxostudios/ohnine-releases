@@ -5,6 +5,19 @@
     <link>https://raxxo.shop/pages/ohnine</link>
     <language>en</language>
     <item>
+      <title>2.0.1</title>
+      <pubDate>Tue, 29 Sep 2026 15:57:21 GMT</pubDate>
+      <sparkle:version>201</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>At the limit, Claw'd walks home crying and sweating under a rain cloud, all the way to the reset.</li>
+<li>While your session climbs, he faces the way he walks.</li>
+<li>Usage credits show in euros as 4.33€.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/raxxostudios/ohnine-releases/releases/download/v2.0.1/OhNine-2.0.1.dmg" sparkle:edSignature="1L6VBj0mZrcX2S74ORdkNJ1S6WbgYE0ji2D07eJhM9kRC2Jvq55fbk5KD1b9vs9934OJS/EDW2edUNvypgzNCg==" length="4637678" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>2.0.0</title>
       <pubDate>Tue, 29 Sep 2026 15:40:59 GMT</pubDate>
       <sparkle:version>200</sparkle:version>
