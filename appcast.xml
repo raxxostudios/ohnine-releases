@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>OhNine</title>
+    <link>https://raxxo.shop/pages/ohnine</link>
+    <language>en</language>
+    <item>
+      <title>2.0.0</title>
+      <pubDate>Tue, 29 Sep 2026 15:40:59 GMT</pubDate>
+      <sparkle:version>200</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>OhNine 2.0: rebuilt as a native Mac app</h2>
+<ul>
+<li>About 5 MB, one download for Apple silicon and Intel</li>
+<li>Signed and notarized by Apple, updates itself from now on</li>
+<li>Syncs through claude.ai's own API in well under a second</li>
+<li>No more random "sign in" prompts</li>
+<li>Several Claude accounts, a workspace picker and usage credits</li>
+<li>A notification the moment your session resets</li>
+<li>Liquid Glass and a 3D Claw'd who trudges home at the limit</li>
+</ul>
+<p>Sign in once more after updating.</p>]]></description>
+      <enclosure url="https://github.com/raxxostudios/ohnine-releases/releases/download/v2.0.0/OhNine-2.0.0.dmg" sparkle:edSignature="JprAcC0tC6NE/RfZDEM0dYu0+MIYnHoqBexTmvJR77vmobqZBrW22D6pY7DhmhqxAppckwgSIC+dSyYFnKcWAA==" length="4424476" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
