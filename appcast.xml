@@ -5,6 +5,17 @@
     <link>https://raxxo.shop/pages/ohnine</link>
     <language>en</language>
     <item>
+      <title>2.0.2</title>
+      <pubDate>Tue, 29 Sep 2026 16:09:50 GMT</pubDate>
+      <sparkle:version>202</sparkle:version>
+      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Reset dates show the weekday, and "tomorrow" when it is tomorrow.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/raxxostudios/ohnine-releases/releases/download/v2.0.2/OhNine-2.0.2.dmg" sparkle:edSignature="qrhwFm+nGmR7uc0MG0Hnw+JUxDn23qFGEQRJZJX06Kh7sRWU+Bpqrp8+b2qwXHzIjiZDM8389a4kxZ3dOu+ODA==" length="4638213" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>2.0.1</title>
       <pubDate>Tue, 29 Sep 2026 15:57:21 GMT</pubDate>
       <sparkle:version>201</sparkle:version>
