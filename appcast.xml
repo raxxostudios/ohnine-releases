@@ -5,6 +5,18 @@
     <link>https://raxxo.shop/pages/ohnine</link>
     <language>en</language>
     <item>
+      <title>2.1.2</title>
+      <pubDate>Thu, 01 Oct 2026 07:58:25 GMT</pubDate>
+      <sparkle:version>212</sparkle:version>
+      <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Auto-sync keeps running after you sign in. Since 2.0 it could sync once after a sign-in and then wait for you to press Sync.</li>
+<li>No more sign-in screen after a restart when you are still signed in. OhNine now waits for macOS to load your login before deciding.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/raxxostudios/ohnine-releases/releases/download/v2.1.2/OhNine-2.1.2.dmg" sparkle:edSignature="QzFzBFzXcAjuIJb993n6q+xsA98khTp4ekLX4rg8Bg35bnAud/hzSpKgMEwditbshgFHPUjX8MNO3ixQwMCTAg==" length="7572985" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>2.1.1</title>
       <pubDate>Thu, 01 Oct 2026 06:42:54 GMT</pubDate>
       <sparkle:version>211</sparkle:version>
