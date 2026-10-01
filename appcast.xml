@@ -5,6 +5,17 @@
     <link>https://raxxo.shop/pages/ohnine</link>
     <language>en</language>
     <item>
+      <title>2.1.1</title>
+      <pubDate>Thu, 01 Oct 2026 06:42:54 GMT</pubDate>
+      <sparkle:version>211</sparkle:version>
+      <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>The hula hoop sits at Claw'd's hips now, and his bandaged leg stays just off the ground instead of hiked up.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/raxxostudios/ohnine-releases/releases/download/v2.1.1/OhNine-2.1.1.dmg" sparkle:edSignature="MDUm3x/FN7X00aYB3Zm7NwQa2xOpc8Y9uvFQUnhRnXS3wHd2hnh2bkITWFa2QGY7tV0bllTBCnJ8TjyCQ5yDAg==" length="7573493" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>2.1.0</title>
       <pubDate>Wed, 30 Sep 2026 23:05:06 GMT</pubDate>
       <sparkle:version>210</sparkle:version>
