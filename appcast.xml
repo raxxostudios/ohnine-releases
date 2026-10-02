@@ -5,6 +5,19 @@
     <link>https://raxxo.shop/pages/ohnine</link>
     <language>en</language>
     <item>
+      <title>2.2.1</title>
+      <pubDate>Fri, 02 Oct 2026 15:44:12 GMT</pubDate>
+      <sparkle:version>221</sparkle:version>
+      <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>When your weekly limit is used up, the panel says when you are back ("Oh Nein. Week used up · back Fri 9 Oct, 16:00") instead of "Starts with your next message" or a session countdown that would not help.</li>
+<li>The menu bar shows a full bar and the time until the week resets, the same way it does at the session limit, instead of the session's percentage.</li>
+<li>The session bar keeps its height when Claw'd is in his grave. It no longer runs over the 0 to 100 scale.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/raxxostudios/ohnine-releases/releases/download/v2.2.1/OhNine-2.2.1.dmg" sparkle:edSignature="r7GUNnGjrGOAAua4LbNR0DOGW8PgjDHiMAd+6DeMbSkFUY62slTdekRYkQJ88KDjmqcrXhdNSiwSKJQ3YdaQCA==" length="7908780" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>2.2.0</title>
       <pubDate>Thu, 01 Oct 2026 18:37:49 GMT</pubDate>
       <sparkle:version>220</sparkle:version>
