@@ -5,6 +5,17 @@
     <link>https://raxxo.shop/pages/ohnine</link>
     <language>en</language>
     <item>
+      <title>2.2.3</title>
+      <pubDate>Fri, 09 Oct 2026 08:24:19 GMT</pubDate>
+      <sparkle:version>223</sparkle:version>
+      <sparkle:shortVersionString>2.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>On macOS 27 the panel wouldn't drag at all, pinned or not. It does now.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/raxxostudios/ohnine-releases/releases/download/v2.2.3/OhNine-2.2.3.dmg" sparkle:edSignature="ENMTTQwP1QJYqP7Gcotle/JQJmuHWo/KCgmzph0IvfBP8QMEBmuaqeyTeXdHoITl+FYD4aISJO1baH0qBAprDQ==" length="8030503" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>2.2.2</title>
       <pubDate>Thu, 08 Oct 2026 16:07:50 GMT</pubDate>
       <sparkle:version>222</sparkle:version>
